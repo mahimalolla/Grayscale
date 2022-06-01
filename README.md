@@ -1,5 +1,7 @@
 # Grayscale
 Algorithm 
+
+
     Get the red green blue values of each pixel.
     
     
