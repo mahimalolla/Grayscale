@@ -5,15 +5,13 @@ Algorithm
     Get the red green blue values of each pixel.
     
     
-    
     Subtract each color value from 255 and save them as new color values.
-    
     
     
     Create a new pixel value from the modified colors.
     
     
-    set the new value to the pixel.
+    Set the new value to the pixel.
     
     
     For colored images, we will subtract 255 from all the values of all 3 channels (RGB) and take its absolute value (positive value).
